@@ -1,0 +1,9 @@
+site_name: 《大模型应用开发：从 0 到 1》
+site_author: Seamile
+repo_url: https://github.com/seamile/llm-0t1
+theme:
+  name: readthedocs
+nav:
+  - 0. 引言: index.md
+  - 1. 初识大模型: 01.初识大模型.md
+  - 2. 提示工程: 02.提示工程.md
